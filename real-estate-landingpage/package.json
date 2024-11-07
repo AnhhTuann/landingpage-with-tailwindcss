@@ -1,0 +1,17 @@
+{
+  "name": "real-estate-landingpage",
+  "version": "1.0.0",
+  "description": "https://figma.com/design/ZdMJoYtlPIQDvjM7o7TwX4/Freebie%3A-Real-Estate-Landing-Page-Design-(Community)-(Community)?node-id=0-1&node-type=canvas&t=hPbwQlGpk1Dr2ls8-0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14",
+    "vite": "^5.4.10"
+  }
+}
